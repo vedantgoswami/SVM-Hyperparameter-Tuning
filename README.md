@@ -12,9 +12,23 @@
 ### Dataset Used
 > 200 data points
 <p align="center"><img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download.png"> 
-
+<p align="center" size="15"> 
+  <b>Change in Value of Gamma </b>
+ </p>
 <p>
-<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(1).png" width="35%">
-<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(2).png" width="35%">
-<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(3).png" width="35%">
+<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(1).png" width="48%">
+<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(2).png" width="48%">
+<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(3).png" width="48%">
+<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(4).png" width="48%">
 </p>
+<p align="center" size="15"> 
+  <b>Change in Value of C </b>
+ </p>
+<p>
+<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(5).png" width="48%">
+<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(6).png" width="48%">
+ </p>
+ <p align="center">
+<img src="https://github.com/vedantgoswami/SVM-Hyperparameter-Tuning/blob/main/Images/download%20(7).png" width="48%">
+</p>
+ 
