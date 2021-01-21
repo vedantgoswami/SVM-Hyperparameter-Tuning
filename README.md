@@ -1,5 +1,5 @@
 # SVM-Hyperparameter-Tuning
-> This repository show how the Support vector machine model perform with different gamma and C value.
+> This repository show how the Support vector machine model perform with different <b>Gamma</b> and<b> C</b> value.
 
 ### Gamma in SVM
 - Low value indicates a large similarity radius which result in more points being grouped together
